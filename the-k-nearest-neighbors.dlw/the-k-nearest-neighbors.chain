@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1971
+slug  : the-k-nearest-neighbors
+seal  : accbff5ae649bf94b6813acaa47f4406fa265a18439dbc8443bca826f7a9cf34
+prev  : 4aad0141e3edf3defccc23b7bbe3b55b408d10f43f3f8051b4979f84a703970b
+link  : 2612d6181bc929209182ba2b554e371cc8f622248c261a6c969afefa3f51a363
+head  : ed18c7776f0df6e24361405d19ce28e198f159bd9735cd5a71fbaed8e7895142
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
